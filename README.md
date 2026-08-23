@@ -252,7 +252,7 @@ Para compilar y ejecutar este programa interactivo por terminal necesitas tener 
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com
+   git clone 
    ```
 2. Accede a la carpeta raíz del proyecto fuente:
    ```bash
